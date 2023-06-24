@@ -5,7 +5,7 @@
 <img src="http://img.youtube.com/vi/aI9E4yKLZ2Y/maxresdefault.jpg" alt="raiden thumbnail image">
 </a>
 
-*### * Introduction
+* ### * Introduction
 Remember the nostalgic game Raiden? Take a trip back to your childhood and try out this remake I've crafted!
 
 ### * Features
