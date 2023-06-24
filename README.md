@@ -18,7 +18,7 @@ Follow these steps to get Raiden up and running:
 
 Clone the repository:
 ```bash
-git clone https://github.com/YourUsername/Raiden.git
+git clone https://github.com/J1-coding/Raiden-Unity-2D-Shooting-Game.git
 ```
 Open the project in Unity: Launch Unity, then click on Open and navigate to the directory where you cloned the repository.
 
