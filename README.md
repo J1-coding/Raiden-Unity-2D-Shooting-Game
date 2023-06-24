@@ -9,6 +9,7 @@
 Remember the nostalgic game Raiden? Take a trip back to your childhood and try out this remake I've crafted!
 
 + ### Core Features
+```
  - Scrolling Background: The background continuously moves on the y-axis, providing an illusion of the player's ship advancing in space.
 
  + Player Control: The player's movements are controlled through keyboard or mouse input. The character can move in all directions (left, right, up, down) within the screen boundaries.
@@ -26,7 +27,7 @@ Remember the nostalgic game Raiden? Take a trip back to your childhood and try o
  + UI Interactions: The project includes a script for managing UI interactions like starting the game, retrying after a game over, and loading settings.
 
 These features combined create an engaging space shooter game, where the player navigates their ship, shoots at enemies, avoids enemy bullets, and competes for the highest score.
-
+```
 * ### Installation
 Follow these steps to get Raiden up and running:
 
