@@ -18,7 +18,10 @@ Follow these steps to get Raiden up and running:
 
 Clone the repository:
 ```bash
+
 echo Copy code "git clone https://github.com/YourUsername/Raiden.git"
+
+```
 Open the project in Unity: Launch Unity, then click on Open and navigate to the directory where you cloned the repository.
 
 Build the game: To create your own executable, click on File > Build Settings, select your platform, then click Build.
