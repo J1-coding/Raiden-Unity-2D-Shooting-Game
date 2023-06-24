@@ -6,12 +6,10 @@
 </a>
 
 ### Introduction
-Welcome to the Raiden repository! Raiden is an engaging 2D shooting game built on the Unity platform. The aim is to not just defeat enemies, but also create an immersive gaming experience. Each level has been carefully crafted with obstacles and features that challenge the gamer, increasing the overall engagement of the game.
+Remember the nostalgic game Raiden? Take a trip back to your childhood and try out this remake I've crafted!
 
 ### Features
-Game Manager: Raiden has a comprehensive game management system that controls the game states, levels, player lives, and enemy behavior. This powerful feature ensures smooth gameplay and enhanced user experience.
-
-### Score Manager: Keeping track of your high scores has never been easier! The Score Manager in Raiden monitors and updates player scores, manages the high score list, and provides insights into your performance over time. Beat your own high score or challenge your friends for an ultimate gaming session.
+Score Manager: Keeping track of your high scores has never been easier! The Score Manager in Raiden monitors and updates player scores, manages the high score list, and provides insights into your performance over time. Beat your own high score or challenge your friends for an ultimate gaming session.
 
 ### Installation
 Follow these steps to get Raiden up and running:
@@ -28,9 +26,9 @@ Enjoy Raiden on your machine!
 
 
 ### Gameplay
-To master Raiden, use the arrow keys to navigate your spaceship and the space bar to fire at incoming enemies. Rack up points with each enemy defeated, and make sure to dodge their attacks to survive. The game features multiple levels of increasing difficulty, each presenting a new set of challenges and enemy types. The journey to becoming the ultimate space warrior begins now!
+To master Raiden, use the 'W', 'A', 'S', 'D' keys to navigate your spaceship up, left, down and right, respectively. Use the left mouse click to fire missiles at incoming enemies. For each enemy you defeat, you rack up points. However, if you come in contact with enemies more than 7 times, your game ends - it's game over.
 
-Contributing
+### Contributing
 We appreciate contributions of any kind and value them highly. Here's how you can help:
 
 Submit bug reports or suggest new features by opening an issue.
@@ -38,10 +36,7 @@ Improve existing features or add new ones by submitting a pull request.
 Improve documentation or write new tutorials.
 For more detailed information, please refer to our contribution guide.
 
-License
-Raiden is licensed under the MIT License.
-
-Contact
-Have questions or suggestions? Feel free to open an issue on GitHub or send us an email.
+### Contact
+Have questions or suggestions? Feel free to open an issue on GitHub or send us an email(gjeus0707@gmail.com).
 
 Happy gaming! 🎮
