@@ -9,7 +9,7 @@
 Remember the nostalgic game Raiden? Take a trip back to your childhood and try out this remake I've crafted!
 
 * ### Core Features
-      * 들여쓰기 2
+  * 들여쓰기 2
        
  - Scrolling Background: The background continuously moves on the y-axis, providing an illusion of the player's ship advancing in space.
 
